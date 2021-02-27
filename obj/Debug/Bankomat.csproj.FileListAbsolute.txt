@@ -1,0 +1,7 @@
+C:\Users\Atlan\Desktop\Programming\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+C:\Users\Atlan\Desktop\Programming\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+C:\Users\Atlan\Desktop\Programming\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\Atlan\Desktop\Programming\Bankomat\Bankomat\obj\Debug\Bankomat.csprojAssemblyReference.cache
+C:\Users\Atlan\Desktop\Programming\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\Atlan\Desktop\Programming\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+C:\Users\Atlan\Desktop\Programming\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
